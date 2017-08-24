@@ -20,7 +20,7 @@ You're free to use any search engine, package, library and/or framework. There i
 The Google API key you can use: `AIzaSyB9uGTdicI7pw_p3YcC5NPvTNLOKylXTN0`
 
 URL to search for locations:
-https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=51.924420,4.477733&radius=2000&keyword=shoarma&key=AIzaSyB9uGTdicI7pw_p3YcC5NPvTNLOKylXTN0'
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=51.924420,4.477733&radius=2000&keyword=shoarma&key=AIzaSyB9uGTdicI7pw_p3YcC5NPvTNLOKylXTN0
 
 ## Task 1:
 
