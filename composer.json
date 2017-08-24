@@ -1,0 +1,12 @@
+{
+    "name": "simgroep/codingdojo",
+    "description": "Coding all the things",
+    "type": "project",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
